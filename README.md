@@ -7,5 +7,5 @@ This project is a widget that can be used in web and mobile apps to get user fee
 ## Technologies
 
 - React JS
-- React Native
 - Tailwind CSS
+- Headless UI
