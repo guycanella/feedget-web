@@ -9,3 +9,7 @@ This project is a widget that can be used in web and mobile apps to get user fee
 - React JS
 - Tailwind CSS
 - Headless UI
+- Prisma
+- Jest
+- Mailtrap.io
+- SOLID
