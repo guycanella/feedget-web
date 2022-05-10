@@ -14,3 +14,5 @@ This project is a widget that can be used in web and mobile apps to get user fee
 - Mailtrap.io
 - SOLID
 - SWC.rs
+- React Native
+- Expo
