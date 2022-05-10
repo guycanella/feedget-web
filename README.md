@@ -1,4 +1,4 @@
-# NWL 8th edition - FeedGet (Feedback Widget)
+# FeedGet (Feedback Widget)
 
 ## Description
 
