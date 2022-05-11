@@ -23,5 +23,11 @@ Widget for sending feedbacks. Project developed with React JS for front-end, Pri
 Use **yarn** or **npm install** to install the dependencies and then start the project:
 
 ```cl
-expo start
+yarn dev
+```
+
+or
+
+```cl
+npm run dev
 ```
