@@ -1,47 +1,27 @@
-# FeedGet (Feedback Widget)
+# FeedGet Web (Feedback Widget - Desktop)
+
+![feedget image](feedget.png)
 
 ## Description
 
-This project is a widget that can be used in web and mobile apps to get user feedbacks.
+Widget for sending feedbacks. Project developed with React JS for front-end, Prisma for back-end, and Mailtrap.oi to test the email sending. Tailwind CSS for styling, Headless UI for accessibility, and Jest for unitary tests. Vercel and Railway for front- and back-end deployment, resepctively.
+
+**Versions:** desktop and mobile.
 
 ## Technologies
 
-### React Js [link](https://reactjs.org/)
+- [ ] React Js [link](https://reactjs.org/)
+- [ ] Tailwind CSS [link](https://tailwindcss.com/)
+- [ ] Headless UI [link](https://headlessui.dev/)
+- [ ] Prisma [link](https://www.prisma.io/)
+- [ ] Jest [link](https://jestjs.io/)
+- [ ] Mailtrap.io [link](https://mailtrap.io/)
+- [ ] SWC [link](https://swc.rs/)
 
-Widget component to send feedbacks about problems or bugs made with ReactJS.
+## Getting started
 
-### Tailwind CSS [link](https://tailwindcss.com/)
+Use **yarn** or **npm install** to install the dependencies and then start the project:
 
-All application styled with Tailwind CSS framework.
-
-### Headless UI [link](https://headlessui.dev/)
-
-Implemention of accessibility with Headless UI components.
-
-### Prisma [link](https://www.prisma.io/)
-
-Prisma as a database toolkit.
-
-### Jest [link](https://jestjs.io/)
-
-Jest framework for unitary tests.
-
-### Mailtrap.io [link](https://mailtrap.io/)
-
-Mailtrap to test the email service of feedbacks.
-
-### SOLID
-
-Use of principles of SOLID to develop the application.
-
-### SWC [link](https://swc.rs/)
-
-Used for compilation of the server.
-
-### React Native [link](https://reactnative.dev/)
-
-Mobile version made with React Native.
-
-### Expo [link](https://expo.dev/)
-
-Expo for integration of application and mobile.
+```cl
+expo start
+```
